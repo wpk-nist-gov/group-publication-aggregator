@@ -1,10 +1,15 @@
 # API Reference
 
 ```{eval-rst}
-.. currentmodule:: group_publication_aggregator
 
 .. autosummary::
    :toctree: generated/
 
-   example_function
+  group_publication_aggregator
+
+.. argparse::
+   :module: group_publication_aggregator.cli
+   :func: get_parser
+   :prog: pub-agg
+   :nodefault:
 ```

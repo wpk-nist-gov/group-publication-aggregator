@@ -7,9 +7,9 @@ To Generate these links, run
 $ nox -s docs -- -d symlink
 -->
 
-```{toctree}
-:maxdepth: 2
+<!-- ```{toctree} -->
+<!-- :maxdepth: 2 -->
 
-example-usage
-usage/demo
-```
+<!-- example-usage -->
+<!-- usage/demo -->
+<!-- ``` -->

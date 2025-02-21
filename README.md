@@ -32,40 +32,8 @@
 
 # `group-publication-aggregator`
 
-A Python package for stuff.
+A Python package to extract citations from excel file.
 
-## Overview
-
-Quick overview...
-
-## Features
-
-Some features...
-
-## Status
-
-This package is actively used by the author. Please feel free to create a pull
-request for wanted features and suggestions!
-
-## Quick start
-
-Use one of the following
-
-```bash
-pip install group-publication-aggregator
-```
-
-or
-
-```bash
-conda install -c wpk-nist group-publication-aggregator
-```
-
-## Example usage
-
-```python
-import group_publication_aggregator
-```
 
 <!-- end-docs -->
 
