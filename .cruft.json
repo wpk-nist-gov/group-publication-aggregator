@@ -1,0 +1,26 @@
+{
+  "template": "https://github.com/usnistgov/cookiecutter-nist-python.git",
+  "commit": "d9009789c2f40f10808b8b47de02d362ae3a031d",
+  "checkout": "develop",
+  "context": {
+    "cookiecutter": {
+      "project_name": "group-publication-aggregator",
+      "project_slug": "group_publication_aggregator",
+      "project_short_description": "Routines to aggregate group publications",
+      "full_name": "William P. Krekelberg",
+      "email": "wpk@nist.gov",
+      "github_username": "wpk-nist-gov",
+      "pypi_username": "wpk-nist",
+      "conda_channel": "wpk-nist",
+      "command_line_interface": "none",
+      "sphinx_use_autodocsumm": true,
+      "sphinx_theme": "sphinx_book_theme",
+      "year": "2025",
+      "__answers": "",
+      "_copy_without_render": [],
+      "_template": "https://github.com/usnistgov/cookiecutter-nist-python.git",
+      "_commit": "d9009789c2f40f10808b8b47de02d362ae3a031d"
+    }
+  },
+  "directory": null
+}
