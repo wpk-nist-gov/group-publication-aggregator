@@ -21,7 +21,7 @@ def first_initials_to_final(
     inner_join: str = " ",
 ) -> str:
     """
-    Convert first intial format to to final initial format
+    Convert {first} {last} format to {last} {first} format
 
     Examples
     --------

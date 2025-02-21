@@ -19,6 +19,7 @@ dependencies:
   - openpyxl
   - packaging
   - pandas
+  - pandas-stubs
   - pylint
   - pytest
   - pytest-cov

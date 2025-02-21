@@ -34,7 +34,6 @@
 
 A Python package to extract citations from excel file.
 
-
 <!-- end-docs -->
 
 ## Documentation

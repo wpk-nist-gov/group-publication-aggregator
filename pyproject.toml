@@ -40,7 +40,7 @@ dynamic = [
 dependencies = [
     "openpyxl",
     "pandas",
-    "typing-extensions; python_version < '3.10'"
+    "typing-extensions; python_version<'3.10'",
 ]
 urls.Documentation = "https://pages.nist.gov/group-publication-aggregator/"
 urls.Homepage = "https://github.com/wpk-nist-gov/group-publication-aggregator"
@@ -94,9 +94,9 @@ test-notebook = [
     { include-group = "test-extras" },
 ]
 typing = [
+    "pandas-stubs",
     "pylint",
     "pytest",
-    "pandas-stubs",
     { include-group = "uvxrun" },
 ]
 # Anything needed to run tools/uvxrun.py
