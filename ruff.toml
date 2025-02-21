@@ -79,6 +79,10 @@ pylint.max-public-methods = 30
     # "B018",  # - Don't remove useless expressions in notebooks
     # "D100",  # - undocumented-public-module
     # "INP001",
+    "T201",
+    "ANN",
+    "PD901",
+    "D",
 ]
 "src/**/*.py" = [
     # "ANN",     # - Annotations (just use mypy/pyright)

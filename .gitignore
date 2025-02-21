@@ -128,3 +128,5 @@ tuna-loadtime.log
 /requirements/dev-user.txt
 /requirements/lock/py*-dev-user-conda-lock.yml*
 /requirements/lock/py*-dev-user.txt*
+# notebooks should be symlinked per machine
+/notebooks/*.xls*

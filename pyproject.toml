@@ -38,8 +38,8 @@ dynamic = [
     "version",
 ]
 dependencies = [
-    "pandas",
     "openpyxl",
+    "pandas",
 ]
 urls.Documentation = "https://pages.nist.gov/group-publication-aggregator/"
 urls.Homepage = "https://github.com/wpk-nist-gov/group-publication-aggregator"
